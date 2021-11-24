@@ -1,4 +1,4 @@
-### About me
+## Hi! I'm Milena :)
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Typescript, Node.js, MySQL
@@ -10,7 +10,7 @@
 <!-- - ⚡ Fun fact: ... -->
 
 
-### Sobre mim
+## Oi, eu sou a Milena :)
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 Estou aprendendo Typescript, Node.js, MySQL
