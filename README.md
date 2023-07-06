@@ -1,9 +1,3 @@
-## Hi! I'm Milena :)
-
-- 🔭 I’m currently working on Quality Assurance
-- 🌱 I’m currently learning Java and Software Quality Assurance
-- I’m looking to collaborate on Backend development projects with Java
-- 😄 Pronouns: she, hers
 <h1 align="center">Hi 👋 I'm Milena</h1>
 <h3 align="center">A Full Stack Developer and Software Engineer-to-be from Brazil</h3>
 
