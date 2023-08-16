@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Toolbox](https://github.com/milenalara/toolbox)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Java and Spring Boot**
 
 - 💬 Ask me about **React.js, Node.js, JavaScript, MySQL, SQL Server**
 
