@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Milena</h1>
 <h3 align="center">A Full Stack Developer and Software Engineer-to-be from Brazil</h3>
 
-[//]: # - 🔭 I’m currently working on [Toolbox](https://github.com/milenalara/toolbox)
+# - 🔭 I’m currently working on [Toolbox](https://github.com/milenalara/toolbox)
 
 - 🌱 I’m currently learning **Java and Spring Boot**
 
