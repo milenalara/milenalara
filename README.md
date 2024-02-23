@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Milena</h1>
-<h3 align="center">A Full Stack Developer and Software Engineer-to-be from Brazil</h3>
+<h3 align="center">A Full Stack Developer in Brazil</h3>
 
 - 🌱 I’m currently learning **Java and Spring Boot**
 
-- 💬 Ask me about **React.js, Node.js, JavaScript, MySQL, SQL Server**
+- 💬 Ask me about **React.js, JavaScript, MySQL, SQL Server**
 
 - 📫 How to reach me **milenalrf@gmail.com**
 
