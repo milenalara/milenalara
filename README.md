@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React.js, JavaScript, MySQL, SQL Server**
 
-- 📫 How to reach me **milenalrf@gmail.com**
+- 📫 How to reach me **milenalrf [at] gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/milenalarareis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milenalarareis" height="30" width="40" /></a>
